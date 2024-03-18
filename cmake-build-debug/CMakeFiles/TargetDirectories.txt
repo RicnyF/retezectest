@@ -1,0 +1,3 @@
+C:/Users/Standard/CLionProjects/retezec/cmake-build-debug/CMakeFiles/retezec.dir
+C:/Users/Standard/CLionProjects/retezec/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Standard/CLionProjects/retezec/cmake-build-debug/CMakeFiles/rebuild_cache.dir
